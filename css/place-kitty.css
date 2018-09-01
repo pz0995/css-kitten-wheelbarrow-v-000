@@ -1,5 +1,5 @@
 /* Select the image with a class of kitty-1 */
-.kitty-1 { 
+.kitty-1 {
    background-image: url(images/kitty-1.png);
 }
 /*__write_selector_here__*/ {
@@ -35,7 +35,7 @@
  background-image: url(images/newsletter_headline1.gif);--
 
  .ball ~ img{
-   
+
  }
 /*__write_selector_here__*/ {
   position: absolute;
